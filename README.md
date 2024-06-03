@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : Ega Rizky Setiawan   
+NIU : 479314
+Sesi : 1  
+Secret String : e001aa7571fff0c35594d59f5bd9765226729dcfef35e3be03fca05fb92c95c420240603005605
 
 ## Checklist Responsi
 
